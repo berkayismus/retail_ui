@@ -1,7 +1,8 @@
 name: retail_ui
-description: A new Flutter package project.
+description: Flutter UI Toolkit created by Retail Online
 version: 0.0.1
 homepage:
+repository: https://github.com/berkayismus/retail_ui
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
